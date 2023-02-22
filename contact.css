@@ -1,0 +1,125 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.parent{
+    background-color: black;
+    height: 600px;
+
+}
+.p1{
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    width: 80%;
+    background-color: rgba(28,28,39,255);
+    width: 100%;
+    margin: 0px auto;
+}
+.text{
+    color: #fff;
+    font-size: 20px;
+    height: 500px;
+    width: 40%;
+    background-color: rgba(36,36,46,255);
+    border: 2px solid black;
+    margin: 30px;
+    padding-left: 10px;
+}
+.img{
+    height: 500px;
+    width: 30%;
+    background-color: rgba(36,36,46,255);
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 30px;
+}
+.text p{
+    margin-left: 50px;
+}
+.line{
+    color: rgb(73, 104, 0);
+}
+.parent1{
+    height: 850px;
+    width: 100%;
+    background-color: black;
+}
+.outer{
+    height: 250px;
+    width: 80%;
+    display: flex;
+    background-color: rgba(36,36,46,255);
+    margin: 10px auto;
+}
+.outer1{
+    background-color: rgba(28,28,39,255);
+    height: 200px;
+    width: 40%;
+    border: 1px solid black;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.outer2{
+    background-color: rgba(28,28,39,255);
+    height: 200px;
+    width: 40%;
+    border: 1px solid black;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.another{
+    height: 450px;
+    width: 80%;
+    background-color: rgba(36,36,46,255);
+    margin: 20px auto;
+}
+h1{
+    color: #fff;
+    text-align: center;
+}
+.h1{
+    color: #fff;
+    text-align: center;
+    margin-top: 30px;
+}
+.outer1 p{
+    color: #fff;
+    margin: 20px;
+    font-size: 20px;
+}
+.outer2 p{
+    color: #fff;
+    margin: 20px;
+    font-size: 20px;
+}
+.form label{
+    color: #fff;
+    margin: 50px;
+    
+}
+.form label input{
+    height: 50px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 8px;
+}
+textarea{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    color: black;
+    background-color: blue;
+    margin-left: 120px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.container{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
